@@ -29,4 +29,4 @@ A custom-built Notepad clone with enhanced text editing and file management feat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sdx0909/notepad-clone.git
+    https://github.com/sdx0909/notepad-clone.git
