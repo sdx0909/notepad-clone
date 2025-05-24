@@ -1,0 +1,32 @@
+Step 1: You are able to Write a new Program or Open the new File as well.
+
+Step 2: Atfer writing the program programmer must save the file with appropriate extension.
+
+Step 3: Here this s/w supports only C,C++,Java and Python language as well as you can create Text and HTML file also.
+
+Step 4: After writing code in CommonIDE s/w you are able to click on "Compile" button.
+
+Step 5: After Successfull Compilation you can click on "Run" button and get the output onto the "Output Screen" panel.
+
+Step 6: But for Python language you can't compile just Run it.
+
+  
+
+
+Note: This S/W Not supports for user input and command line arguments but we can perform these task on command prompt as well. so this in not limitation of that IDE.
+
+You are able to follow the rules for run the programs:
+
+1)  New --> Save ---> Compile ---> Run     for  C,C++,Java language 
+
+2)  New --> Save ---> Run     for  C,C++,Java language 
+
+
+
+You can give the suggestions as well as feedback to my G-mail account:
+  
+G-mail:   dixitsaurabh092@gmail.com 
+
+
+
+
